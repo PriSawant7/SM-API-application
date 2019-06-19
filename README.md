@@ -7,3 +7,9 @@ Then the top five keyword information is written to the final.csv. all the heade
 The csv is then pulled in tableau to create dashboards for better understanding of the data. 
 The Dashbord contains two charts one is the table that shows the urls and the corresponding top5 keywords and the other is the chart for the top 5 keywords for each url.
 When you click on the url the bar chart changes as per the data of the url.
+
+
+1. final.csv - Final output that contains url and top 5 keywords with the other details about the keyword
+2. data.csv - original csv with urls
+3. main.py - python code to call and process api
+4. dashboard - dashboards constructed in tableau. 
